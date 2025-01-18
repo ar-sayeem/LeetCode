@@ -1,7 +1,29 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        s = set(ransomNote)
+        counter = {}
         
-        for mag in magazine:
-            if mag in s:
-                return True
+        for c in magazine:
+            if c in counter:
+                counter[c] += 1
+            else:
+                counter[c] = 1
+                
+        # for c in ransomNote:
+        #     if c not in counter or counter[c] == 0:
+        #         return False
+        #     counter[c] -= 1
+            
+        # return True
+
+        for c in ransomNote:
+            if c not in counter:
+                return False
+            elif counter[c] == 1:
+                del counter[c]
+            else:
+                counter[c] -= 1
+
+        return True
+
+# Time : O(m + n)
+# Space: O(1)

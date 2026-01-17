@@ -1,30 +1,25 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
         n = len(grid)
+        seen = [False] * (n * n + 1)
         duplicate = -1
-        actual_sum = 0
-
-        for i in range(n):
-            for j in range(n):
-                current_number = abs(grid[i][j])
-                actual_sum += current_number
-
-                position = current_number - 1
-                target_row = position // n
-                target_col = position % n
-
-                if grid[target_row][target_col] < 0:
-                    duplicate = current_number
+        
+        for row in grid:
+            for num in row:
+                if seen[num]:
+                    duplicate = num
                 else:
-                    grid[target_row][target_col] *= -1
-
-        expected_sum = (n * n) * (n * n + 1) // 2
-
-        missing = expected_sum + duplicate - actual_sum
+                    seen[num] = True
+        
+        missing = -1
+        for i in range(1, n * n + 1):
+            if not seen[i]:
+                missing = i
+                break
         
         return [duplicate, missing]
 
 
 # Time Complexity: O(n²)
-# Space Complexity: O(1)
+# Space Complexity: O(n²)
 # by ar-sayeem [January 17, 2026]

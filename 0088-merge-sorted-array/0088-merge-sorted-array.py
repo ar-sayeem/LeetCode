@@ -19,3 +19,8 @@ class Solution:
             nums1[insert] = nums2[p2]
             p2 -= 1
             insert -=1
+
+
+# Time Complexity: O(m+n)
+# Space Complexity: O(1)
+# by ar-sayeem [January 18, 2026]

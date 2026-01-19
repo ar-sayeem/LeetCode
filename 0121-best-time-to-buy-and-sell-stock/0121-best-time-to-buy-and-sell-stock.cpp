@@ -1,23 +1,18 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int min_price = INT_MAX;
-        int max_profit = 0;
+        int maxProfit = 0, bestBuy = prices[0];
 
-        for (int price : prices) {
-            if (price < min_price) {
-                min_price = price;
-            } else {
-                int profit = price - min_price;
-                if (profit > max_profit) {
-                    max_profit = profit;
-                }
+        for (int i = 1; i < prices.size(); i++) {
+            if (prices[i] > bestBuy) {
+                maxProfit = max(maxProfit, prices[i] - bestBuy);
             }
+            bestBuy = min(bestBuy, prices[i]);
         }
-
-        return max_profit;
+        return maxProfit;
     }
 };
 
 // Time Complexity: O(n)
 // Space Complexity: O(1)
+// by ar-sayeem [January 19, 2026]

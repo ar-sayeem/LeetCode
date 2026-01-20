@@ -3,12 +3,10 @@ public:
     int maxSubArray(vector<int>& nums) {
         // Kadane's Algorithm
         int CS = 0, MS = INT_MIN;
-        for(int i : nums)
-        {
+        for (int i : nums) {
             CS += i;
             MS = max(CS, MS);
-            if(CS < 0)
-            {
+            if (CS < 0) {
                 CS = 0;
             }
         }

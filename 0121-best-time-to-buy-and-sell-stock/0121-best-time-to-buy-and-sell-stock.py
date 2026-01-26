@@ -1,17 +1,17 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        min_price = float('inf')
-        max_profit = 0
+        # imagine everyday as selling day, then find which day from past I could bought that will give me max profit
 
-        for price in prices:
-            if price < min_price:
-                min_price = price
-            else:
-                profit = price - min_price
-                if profit > max_profit:
-                    max_profit = profit
+        MP = 0
+        BB = prices[0]
+        for i in range(1, len(prices)):
+            if prices[i] > BB:
+                MP = max(MP, prices[i] - BB)
+            BB = min(BB, prices[i])
+        return MP
 
-        return max_profit
 
+# MP = Max Profit | BB = Best Buy
 # Time Complexity: O(n)
 # Space Complexity: O(1)
+# by ar-sayeem [January 22, 2026]

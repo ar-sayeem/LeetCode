@@ -1,0 +1,37 @@
+class Solution:
+    def myPow(self, x: float, n: int) -> float:
+        # Base cases
+        if n == 0:
+            return 1.0
+        if x == 0:
+            return 0.0
+        if x == 1:
+            return 1.0
+        if x == -1 and n % 2 == 0:
+            return 1.0
+        if x == -1 and n % 2 != 0:
+            return -1.0
+
+        # Store exponent in a variable to handle negative powers
+        bitForm = n
+
+        # If exponent is negative, invert base and make exponent positive
+        if n < 0:
+            x = 1 / x
+            bitForm = -bitForm
+
+        ans = 1.0  # Result accumulator
+
+        # Binary Exponentiation (iterative)
+        while bitForm > 0:
+            if bitForm % 2 == 1:  # If current bit is set
+                ans *= x
+            x *= x  # Square the base
+            bitForm //= 2  # Move to next bit
+
+        return ans
+
+
+# Time Complexity : O(log n)
+# Space Complexity : O(1)
+# by ar - sayeem [January 23, 2026]

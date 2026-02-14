@@ -43,3 +43,9 @@ public:
         return ans;
     }
 };
+
+
+// Time Complexity: O(n³)
+// Space Complexity: O(1) excluding output
+// Space Complexity: O(k) where k is the number of unique quadruplets
+// by ar-sayeem [February 14, 2026]

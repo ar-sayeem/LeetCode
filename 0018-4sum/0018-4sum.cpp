@@ -5,11 +5,13 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n; i++) {
+        // stop at n-3 to have room for j, p, q
+        for (int i = 0; i < n - 3; i++) {
             if (i > 0 && nums[i] == nums[i - 1])
-                continue; // optimization of i
+                continue; // skip duplicates for i
 
-            for (int j = i + 1; j < n;) {
+            // stop at n-2 to have room for p, q
+            for (int j = i + 1; j < n - 2;) {
 
                 int p = j + 1, q = n - 1;
                 while (p < q) {
@@ -26,14 +28,16 @@ public:
                         q--;
 
                         while (p < q && nums[p] == nums[p - 1])
-                            p++; // optimization of j
-                        // i, j, p is optimized no need to optimize q, it'll always give unique
+                            p++; // skip duplicates for p
+                        // no need optimization for q
+                        while (p < q && nums[q] == nums[q + 1])
+                            q--;
                     }
                 }
 
                 j++;
-                while (j < n && nums[j] == nums[j - 1])
-                    j++; // optimization of j
+                while (j < n - 2 && nums[j] == nums[j - 1])
+                    j++; // skip duplicates for j
             }
         }
         return ans;

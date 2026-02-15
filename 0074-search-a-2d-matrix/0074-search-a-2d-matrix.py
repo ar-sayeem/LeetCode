@@ -6,9 +6,9 @@ class Solution:
         topROW, botROW = 0, ROWs - 1
         while topROW <= botROW:
             row = (topROW + botROW) // 2
-            if target > matrix[row][-1]:  # Target is in a lower row
+            if target > matrix[row][-1]:  # Target is larger than last element of this row
                 topROW = row + 1
-            elif target < matrix[row][0]:  # Target is in an upper row
+            elif target < matrix[row][0]:  # Target is smaller than first element of this row
                 botROW = row - 1
             else:  # Target is in this row
                 break
@@ -21,9 +21,9 @@ class Solution:
         l, r = 0, COLs - 1
         while l <= r:
             m = (l + r) // 2
-            if target < matrix[row][m]:
+            if target < matrix[row][m]:     # Target is smaller than middle element
                 r = m - 1
-            elif target > matrix[row][m]:
+            elif target > matrix[row][m]:   # Target is larger than middle element
                 l = m + 1
             else:  # Target found
                 return True

@@ -5,6 +5,9 @@ class Solution:
         # Except if the number is 0 itself
         return (num == 0 or (num % 10 != 0))
 
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+# by ar-sayeem [February 19, 2026]
 
         # str(n) converts the number to a string.
         # [::-1] reverses the string.
@@ -13,7 +16,3 @@ class Solution:
         # r1 = int(str(num)[::-1])
         # r2 = int(str(r1)[::-1])
         # return (r2 == num)
-
-# Time Complexity: O(n)
-# Space Complexity: O(n)
-# by ar-sayeem [February 19, 2026]

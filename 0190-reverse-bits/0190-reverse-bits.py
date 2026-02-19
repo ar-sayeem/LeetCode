@@ -1,6 +1,12 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        return int(f'{n:032b}'[::-1], 2)
+        # return int(f'{n:032b}'[::-1], 2)
+        ans = 0
+        for _ in range(32):
+            ans <<= 1           # Make space for next bit
+            ans |= (n & 1)      # (n & 1)-> gets last bit, then |= add in answer
+            n >>= 1             # right shift n
+        return ans
 
 # Time Complexity: O(1)
 # Space Complexity: O(1)

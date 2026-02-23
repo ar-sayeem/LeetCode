@@ -32,6 +32,6 @@ public:
 };
 
 
-# Time Complexity: O(n)
-# Space Complexity: O(1)
-# by ar-sayeem [February 23, 2026]
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+//  by ar-sayeem [February 23, 2026]

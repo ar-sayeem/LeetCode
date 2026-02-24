@@ -8,3 +8,8 @@ This repository contains a curated collection of solutions to various LeetCode p
 - **Code Documentation**: Solutions include inline comments and explanations to enhance understanding and facilitate learning.
 
 This repository serves as a resource for anyone looking to deepen their knowledge of data structures and algorithms or to prepare for technical interviews.
+
+### Default Copy Paste
+- Time Complexity: O()
+- Space Complexity: O()
+- by ar-sayeem [Month, DD, YYYY]

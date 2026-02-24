@@ -12,4 +12,4 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ### Default Copy Paste
 - Time Complexity: O()
 - Space Complexity: O()
-- by ar-sayeem [Month, DD, YYYY]
+- by ar-sayeem [Month DD, YYYY]

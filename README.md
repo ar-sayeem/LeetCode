@@ -13,3 +13,19 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 - Time Complexity: O()
 - Space Complexity: O()
 - by ar-sayeem [Month DD, YYYY]
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ar-sayeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ar-sayeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ar-sayeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+<!---LeetCode Topics End-->

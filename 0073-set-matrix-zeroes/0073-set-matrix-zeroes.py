@@ -43,6 +43,6 @@ class Solution:
                 matrix[i][0] = 0
 
 
-# Time Complexity: O(row x col)
+# Time Complexity: O(RowXCol)
 # Space Complexity: O(1)
 # by ar-sayeem [March 03, 2026]

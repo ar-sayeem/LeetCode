@@ -33,8 +33,10 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->

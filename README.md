@@ -22,6 +22,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0003-longest-substring-without-repeating-characters](https://github.com/ar-sayeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix

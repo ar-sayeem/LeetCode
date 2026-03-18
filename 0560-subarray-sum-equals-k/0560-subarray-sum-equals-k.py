@@ -1,3 +1,4 @@
+from collections import defaultdict
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
 
@@ -7,8 +8,8 @@ class Solution:
         result = 0
         prefixSum = 0
 
-        for i in nums:
-            prefixSum += i                              # move one step forward
+        for num in nums:
+            prefixSum += num                            # move one step forward
             if prefixSum - k in sumCountMap:            # did we see this before?
                 result += sumCountMap[prefixSum - k]    # yes! count those subarrays
             sumCountMap[prefixSum] += 1                 # record this stop in notebook

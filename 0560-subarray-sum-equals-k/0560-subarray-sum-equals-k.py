@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
 
@@ -21,3 +19,14 @@ class Solution:
 # Time Complexity: O(N)
 # Space Complexity: O(N)
 # by ar-sayeem [March 18, 2026]
+
+
+        # N = len(nums)
+        # count = 0
+        # for i in range(N):      # loop 0 to N
+        #     prefixSum = 0
+        #     for j in range(i, N):   # loop i to N
+        #         prefixSum += nums[j]
+        #         if prefixSum == k:
+        #             count += 1
+        # return count

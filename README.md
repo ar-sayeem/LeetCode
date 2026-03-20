@@ -55,6 +55,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,5 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 <!---LeetCode Topics End-->

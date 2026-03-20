@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def numberOfPermutations(self, n: int, requirements: List[List[int]]) -> int:
         MOD = 10**9 + 7  # take modulo every step to avoid overflow

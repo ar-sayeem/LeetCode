@@ -17,8 +17,8 @@ class Solution:
 
             for j in range(max_inv + 1):
                 if j > 0:
-                    curr[j] = curr[j - 1]                              # carry forward running window total
-                curr[j] = (curr[j] + prev[j]) % MOD                   # add new term entering the window
+                    curr[j] = curr[j - 1]               # carry forward running window total
+                curr[j] = (curr[j] + prev[j]) % MOD     # add new term entering the window
                 fell_off = j - i - 1
                 if fell_off >= 0:
                     curr[j] = (curr[j] - prev[fell_off] + MOD) % MOD  # subtract term leaving the window

@@ -43,6 +43,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -107,6 +108,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -119,6 +121,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 ## Simulation
@@ -133,4 +136,12 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->

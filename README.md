@@ -23,6 +23,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/ar-sayeem/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ar-sayeem/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -33,6 +34,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ar-sayeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0205-isomorphic-strings](https://github.com/ar-sayeem/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ar-sayeem/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ar-sayeem/LeetCode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |

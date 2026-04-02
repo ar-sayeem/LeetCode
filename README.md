@@ -62,6 +62,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ar-sayeem/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ar-sayeem/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -155,11 +156,13 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |

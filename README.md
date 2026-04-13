@@ -81,6 +81,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ar-sayeem/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ar-sayeem/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ar-sayeem/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |

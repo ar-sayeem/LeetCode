@@ -18,6 +18,6 @@ class Solution:
         return -1  # no match found
 
 
-# Time Complexity   : O(N)
+# Time Complexity   : O(N ∗ M)
 # Space Complexity  : O(1)
 # by ar-sayeem [April 15, 2026]

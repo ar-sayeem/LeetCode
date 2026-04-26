@@ -88,6 +88,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ar-sayeem/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -129,6 +130,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ar-sayeem/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |

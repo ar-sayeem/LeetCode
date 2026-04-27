@@ -204,6 +204,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/ar-sayeem/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ar-sayeem/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -258,12 +259,15 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

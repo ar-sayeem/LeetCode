@@ -84,6 +84,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ar-sayeem/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -122,6 +123,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ar-sayeem/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
@@ -186,6 +188,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |

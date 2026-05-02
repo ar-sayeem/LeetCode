@@ -17,6 +17,6 @@ class Solution:
         return good
 
 
-# Time Complexity   : O(N)
+# Time Complexity   : O(N log N)
 # Space Complexity  : O(1)
 # by ar-sayeem [May 02, 2026]

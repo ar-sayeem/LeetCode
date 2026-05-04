@@ -75,6 +75,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0014-longest-common-prefix](https://github.com/ar-sayeem/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/ar-sayeem/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ar-sayeem/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -112,6 +113,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ar-sayeem/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -123,6 +125,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ar-sayeem/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |

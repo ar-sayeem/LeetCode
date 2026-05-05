@@ -175,6 +175,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/ar-sayeem/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ar-sayeem/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -186,6 +187,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/ar-sayeem/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Dynamic Programming

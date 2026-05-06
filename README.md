@@ -74,6 +74,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0004-median-of-two-sorted-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/ar-sayeem/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/ar-sayeem/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ar-sayeem/LeetCode/tree/main/0049-group-anagrams/) | Medium |
@@ -163,6 +164,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |

@@ -25,6 +25,6 @@ class Solution:
         backTrack([], 0, target)
         return ans
 
-# Time Complexity   : O()
-# Space Complexity  : O()
+# Time Complexity  : O(2^N)
+# Space Complexity : O(N)  
 # by ar-sayeem [May 07, 2026]

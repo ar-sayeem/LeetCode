@@ -142,6 +142,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0222-count-complete-tree-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/ar-sayeem/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -302,4 +303,8 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/ar-sayeem/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/ar-sayeem/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->

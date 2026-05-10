@@ -35,5 +35,5 @@ class Solution:
 
 
 # Time Complexity   : O(N!)
-# Space Complexity  : O(N)
+# Space Complexity  : O(N²)
 # by ar-sayeem [May 10, 2026]

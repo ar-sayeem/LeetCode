@@ -110,6 +110,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ar-sayeem/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ar-sayeem/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ar-sayeem/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -215,6 +216,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0657-robot-return-to-origin](https://github.com/ar-sayeem/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ar-sayeem/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ar-sayeem/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

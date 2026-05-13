@@ -133,6 +133,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ar-sayeem/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/ar-sayeem/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/ar-sayeem/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |

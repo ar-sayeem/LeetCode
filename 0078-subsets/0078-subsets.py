@@ -23,6 +23,6 @@ class Solution:
         return allSubSets
 
 
-# Time Complexity   : O()
-# Space Complexity  : O()
+# Time Complexity   : O(n * 2^n)
+# Space Complexity  : O(n * 2^n)
 # by ar-sayeem [May 16, 2026]

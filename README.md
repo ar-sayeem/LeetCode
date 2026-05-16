@@ -85,6 +85,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0051-n-queens](https://github.com/ar-sayeem/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/ar-sayeem/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ar-sayeem/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ar-sayeem/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -160,6 +161,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/ar-sayeem/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -180,6 +182,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0039-combination-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/ar-sayeem/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/ar-sayeem/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ar-sayeem/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum

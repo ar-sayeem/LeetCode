@@ -36,6 +36,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ar-sayeem/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ar-sayeem/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
@@ -115,6 +116,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ar-sayeem/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ar-sayeem/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ar-sayeem/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/ar-sayeem/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -160,6 +162,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0540-single-element-in-a-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ar-sayeem/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ar-sayeem/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +213,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/ar-sayeem/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ar-sayeem/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/ar-sayeem/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

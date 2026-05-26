@@ -225,6 +225,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -327,6 +328,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/ar-sayeem/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -363,4 +365,8 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ar-sayeem/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->

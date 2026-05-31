@@ -225,6 +225,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ar-sayeem/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/ar-sayeem/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/ar-sayeem/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ar-sayeem/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -373,6 +374,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ar-sayeem/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/ar-sayeem/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Doubly-Linked List

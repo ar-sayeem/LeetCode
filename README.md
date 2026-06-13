@@ -69,6 +69,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2833-furthest-point-from-origin](https://github.com/ar-sayeem/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ar-sayeem/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ar-sayeem/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/ar-sayeem/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ar-sayeem/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ar-sayeem/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ar-sayeem/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ar-sayeem/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2553-separate-the-digits-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/ar-sayeem/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/ar-sayeem/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

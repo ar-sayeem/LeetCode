@@ -13,6 +13,6 @@ class Solution:
         return "".join(ans)
 
 
-# Time Complexity   : O(N)
-# Space Complexity  : O(1)
+# Time Complexity: O(N)  — N = total characters across all words
+# Space Complexity: O(1)  — auxiliary space only, not counting output
 # by ar-sayeem [June 13, 2026]

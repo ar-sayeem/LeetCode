@@ -234,6 +234,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0443-string-compression](https://github.com/ar-sayeem/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ar-sayeem/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ar-sayeem/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ar-sayeem/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -254,6 +255,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0234-palindrome-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

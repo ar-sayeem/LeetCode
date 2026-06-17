@@ -1,28 +1,17 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        curr = root
+        curr, stack = root, []
         ans = []
 
-        while curr:
-            if not curr.left:
+        while curr or stack:
+            if curr:
                 ans.append(curr.val)
-                curr = curr.right
+                stack.append(curr.right)
+                curr = curr.left
             else:
-                predecessor = curr.left
-                while predecessor.right and predecessor.right != curr:
-                    predecessor = predecessor.right
-
-                if not predecessor.right:
-                    ans.append(curr.val)
-                    predecessor.right = curr
-                    curr = curr.left
-                else:
-                    predecessor.right = None
-                    curr = curr.right
-        
+                curr = stack.pop()
         return ans
 
-# Morris Traversal algorithm
-# Time Complexity   : O(N)
-# Space Complexity  : O(1)
-# by ar-sayeem [April 22, 2026]
+# Time Complexity  : O(N)
+# Space Complexity : O(N)
+# by ar-sayeem [June 17, 2026]

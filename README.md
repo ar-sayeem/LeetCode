@@ -118,6 +118,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0994-rotting-oranges](https://github.com/ar-sayeem/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/ar-sayeem/LeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/ar-sayeem/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ar-sayeem/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ar-sayeem/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ar-sayeem/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -220,6 +221,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0238-product-of-array-except-self](https://github.com/ar-sayeem/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ar-sayeem/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/ar-sayeem/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |

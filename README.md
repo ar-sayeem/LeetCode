@@ -38,6 +38,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0567-permutation-in-string](https://github.com/ar-sayeem/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ar-sayeem/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/ar-sayeem/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -60,6 +61,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0567-permutation-in-string](https://github.com/ar-sayeem/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/ar-sayeem/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/ar-sayeem/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ar-sayeem/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ar-sayeem/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ar-sayeem/LeetCode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -352,6 +354,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ar-sayeem/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ar-sayeem/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ar-sayeem/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Trie
 | Problem Name | Difficulty |

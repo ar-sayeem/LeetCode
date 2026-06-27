@@ -373,6 +373,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -382,6 +383,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -391,6 +393,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -407,6 +410,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0994-rotting-oranges](https://github.com/ar-sayeem/LeetCode/tree/main/0994-rotting-oranges/) | Medium |

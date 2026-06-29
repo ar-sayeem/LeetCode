@@ -66,6 +66,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ar-sayeem/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ar-sayeem/LeetCode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ar-sayeem/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ar-sayeem/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ar-sayeem/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ar-sayeem/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -124,6 +125,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ar-sayeem/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ar-sayeem/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ar-sayeem/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ar-sayeem/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ar-sayeem/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ar-sayeem/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |

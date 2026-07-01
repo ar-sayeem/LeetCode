@@ -2,7 +2,6 @@ class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         ans = []
         stack = []
-
         curr = root
 
         while curr or stack:
@@ -15,19 +14,6 @@ class Solution:
 
         return ans
 
-
-        # ans = []
-
-        # def inorder(root):
-        #     if not root:
-        #         return
-        #     inorder(root.left)
-        #     ans.append(root.val)
-        #     inorder(root.right)
-
-        # inorder(root)
-        # return ans
-
 # Time Complexity   : O(N)
 # Space Complexity  : O(N)
-# by ar-sayeem [June 24, 2026]
+# by ar-sayeem [July 01, 2026]

@@ -31,6 +31,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0205-isomorphic-strings](https://github.com/ar-sayeem/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ar-sayeem/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ar-sayeem/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -107,6 +108,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ar-sayeem/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -182,6 +184,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/ar-sayeem/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ar-sayeem/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -205,6 +208,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0049-group-anagrams](https://github.com/ar-sayeem/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/ar-sayeem/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ar-sayeem/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -242,6 +246,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0202-happy-number](https://github.com/ar-sayeem/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ar-sayeem/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/ar-sayeem/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ar-sayeem/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |

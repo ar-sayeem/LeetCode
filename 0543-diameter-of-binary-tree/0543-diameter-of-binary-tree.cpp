@@ -1,5 +1,7 @@
 class Solution {
 public:
+    int ans = 0;
+
     int height(TreeNode* root) {
         if (root == NULL) {
             return 0;
@@ -8,18 +10,17 @@ public:
         int leftHeight = height(root->left);
         int rightHeight = height(root->right);
 
+        ans = max(ans, leftHeight + rightHeight);
         return max(leftHeight, rightHeight) + 1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        if (root == NULL) {
-            return 0;
-        }
+        height(root);
 
-        int leftDiam = diameterOfBinaryTree(root->left);
-        int rightDiam = diameterOfBinaryTree(root->right);
-        int currDiam = height(root->left) + height(root->right);
-
-        return max(currDiam, max(leftDiam, rightDiam));
+        return ans;
     }
 };
+
+// Time Complexity: O(N)
+// Space Complexity: O(H)
+// by ar-sayeem [July 03, 2026]

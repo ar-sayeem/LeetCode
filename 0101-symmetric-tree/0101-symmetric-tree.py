@@ -1,17 +1,17 @@
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-        def same(root1, root2):
-            if not root1 and not root2:
+        def same(a, b):
+            if a == None and b == None:
                 return True
-            if not root1 or not root2:
+            if a == None or b == None:
                 return False
-            if root1.val != root2.val:
+            if a.val != b.val:
                 return False
-            return same(root1.left, root2.right) and \
-                   same(root1.right, root2.left)
-
-        return same(root, root)
-
-# Time Complexity: O(n)
-# Space Complexity: O(n)
-# by ar-sayeem [June 27, 2026]
+            
+            return same(a.left, b.right) and same(a.right, b.left)
+        
+        return same(root.right, root.left)
+    
+# Time Complexity   : O(N)
+# Space Complexity  : O(H)
+# by ar-sayeem [July 05, 2026]

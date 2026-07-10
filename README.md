@@ -395,6 +395,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0543-diameter-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +410,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0543-diameter-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/ar-sayeem/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -425,6 +427,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0543-diameter-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +445,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0994-rotting-oranges](https://github.com/ar-sayeem/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/ar-sayeem/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |

@@ -305,6 +305,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/ar-sayeem/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |

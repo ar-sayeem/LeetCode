@@ -23,6 +23,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0049-group-anagrams](https://github.com/ar-sayeem/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ar-sayeem/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ar-sayeem/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ar-sayeem/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -102,6 +103,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0078-subsets](https://github.com/ar-sayeem/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/ar-sayeem/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ar-sayeem/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ar-sayeem/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -299,6 +301,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -388,6 +391,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0100-same-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -420,6 +424,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0100-same-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |

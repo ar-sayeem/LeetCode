@@ -282,6 +282,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ar-sayeem/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/ar-sayeem/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -397,6 +398,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -414,6 +416,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -434,6 +437,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |

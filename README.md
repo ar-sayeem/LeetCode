@@ -408,6 +408,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -426,6 +427,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -447,6 +449,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -465,6 +468,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0100-same-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0994-rotting-oranges](https://github.com/ar-sayeem/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ar-sayeem/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |

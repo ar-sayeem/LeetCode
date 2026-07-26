@@ -121,6 +121,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ar-sayeem/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ar-sayeem/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/ar-sayeem/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -177,6 +178,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0263-ugly-number](https://github.com/ar-sayeem/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -218,6 +220,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0242-valid-anagram](https://github.com/ar-sayeem/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ar-sayeem/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ar-sayeem/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |

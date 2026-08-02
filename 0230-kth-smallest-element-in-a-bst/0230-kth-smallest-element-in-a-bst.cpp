@@ -30,6 +30,6 @@ public:
     }
 };
 
-// Time Complexity   : O(N)
-// Space Complexity  : O(1)
+// Time Complexity: O(H + K)
+// Space Complexity: O(H)
 // by ar-sayeem [August 02, 2026]

@@ -182,6 +182,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0628-maximum-product-of-three-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ar-sayeem/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ar-sayeem/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ar-sayeem/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -325,6 +326,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/ar-sayeem/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ar-sayeem/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |

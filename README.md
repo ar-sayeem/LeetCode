@@ -341,6 +341,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/ar-sayeem/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/ar-sayeem/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/ar-sayeem/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -427,6 +428,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/ar-sayeem/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ar-sayeem/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -483,6 +485,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/ar-sayeem/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ar-sayeem/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ar-sayeem/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -547,6 +550,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ar-sayeem/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/ar-sayeem/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/ar-sayeem/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/ar-sayeem/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ar-sayeem/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
@@ -555,6 +559,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0098-validate-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/ar-sayeem/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ar-sayeem/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ar-sayeem/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -581,4 +586,8 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ar-sayeem/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->

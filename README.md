@@ -178,6 +178,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0002-add-two-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/ar-sayeem/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/ar-sayeem/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/ar-sayeem/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ar-sayeem/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -307,6 +308,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ar-sayeem/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/ar-sayeem/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/ar-sayeem/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/ar-sayeem/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -576,6 +578,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ar-sayeem/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |

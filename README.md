@@ -66,6 +66,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0443-string-compression](https://github.com/ar-sayeem/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ar-sayeem/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/ar-sayeem/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ar-sayeem/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ar-sayeem/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ar-sayeem/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -310,6 +311,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/ar-sayeem/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 ## Simulation
@@ -360,6 +362,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0234-palindrome-linked-list](https://github.com/ar-sayeem/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ar-sayeem/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/ar-sayeem/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ar-sayeem/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -420,6 +423,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ar-sayeem/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ar-sayeem/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ar-sayeem/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -617,4 +621,5 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ar-sayeem/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ar-sayeem/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->

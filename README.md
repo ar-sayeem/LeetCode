@@ -197,6 +197,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [3345-smallest-divisible-digit-product-i](https://github.com/ar-sayeem/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ar-sayeem/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ar-sayeem/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ar-sayeem/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
@@ -439,6 +440,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ar-sayeem/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ar-sayeem/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ar-sayeem/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

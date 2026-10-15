@@ -48,6 +48,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2540-minimum-common-value](https://github.com/ar-sayeem/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ar-sayeem/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ar-sayeem/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2553-separate-the-digits-in-an-array](https://github.com/ar-sayeem/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/ar-sayeem/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ar-sayeem/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -406,10 +408,12 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ar-sayeem/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/ar-sayeem/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ar-sayeem/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

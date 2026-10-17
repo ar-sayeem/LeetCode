@@ -49,6 +49,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ar-sayeem/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ar-sayeem/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ar-sayeem/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ar-sayeem/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ar-sayeem/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ar-sayeem/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ar-sayeem/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -247,6 +249,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2784-check-if-array-is-good](https://github.com/ar-sayeem/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ar-sayeem/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ar-sayeem/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ar-sayeem/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ar-sayeem/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Backtracking

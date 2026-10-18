@@ -26,6 +26,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ar-sayeem/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ar-sayeem/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ar-sayeem/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/ar-sayeem/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -61,6 +62,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0076-minimum-window-substring](https://github.com/ar-sayeem/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/ar-sayeem/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/ar-sayeem/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ar-sayeem/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ar-sayeem/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ar-sayeem/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -117,6 +119,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ar-sayeem/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/ar-sayeem/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ar-sayeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ar-sayeem/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ar-sayeem/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -322,6 +325,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ar-sayeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ar-sayeem/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/ar-sayeem/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -437,6 +441,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ar-sayeem/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -643,4 +648,12 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ar-sayeem/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ar-sayeem/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->

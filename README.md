@@ -82,6 +82,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ar-sayeem/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ar-sayeem/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ar-sayeem/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ar-sayeem/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ar-sayeem/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ar-sayeem/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ar-sayeem/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -201,6 +202,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ar-sayeem/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ar-sayeem/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ar-sayeem/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ar-sayeem/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |

@@ -174,6 +174,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ar-sayeem/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ar-sayeem/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ar-sayeem/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ar-sayeem/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ar-sayeem/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ar-sayeem/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ar-sayeem/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ar-sayeem/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +244,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/ar-sayeem/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/ar-sayeem/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ar-sayeem/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ar-sayeem/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

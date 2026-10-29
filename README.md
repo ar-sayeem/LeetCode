@@ -140,6 +140,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0645-set-mismatch](https://github.com/ar-sayeem/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/ar-sayeem/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/ar-sayeem/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/ar-sayeem/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0832-flipping-an-image](https://github.com/ar-sayeem/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ar-sayeem/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ar-sayeem/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -340,6 +341,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/ar-sayeem/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ar-sayeem/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/ar-sayeem/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/ar-sayeem/LeetCode/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ar-sayeem/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |

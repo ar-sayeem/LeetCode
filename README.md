@@ -122,6 +122,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ar-sayeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/ar-sayeem/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ar-sayeem/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ar-sayeem/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -340,6 +341,7 @@ This repository serves as a resource for anyone looking to deepen their knowledg
 | [0131-palindrome-partitioning](https://github.com/ar-sayeem/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/ar-sayeem/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/ar-sayeem/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/ar-sayeem/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/ar-sayeem/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/ar-sayeem/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ar-sayeem/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
